@@ -1,0 +1,15 @@
+F:\12th Semester\MedicareLab\MedicareLab\bin\Debug\MedicareLab.exe.config
+F:\12th Semester\MedicareLab\MedicareLab\bin\Debug\MedicareLab.exe
+F:\12th Semester\MedicareLab\MedicareLab\bin\Debug\MedicareLab.pdb
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.csproj.AssemblyReference.cache
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.Properties.Resources.resources
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.csproj.GenerateResource.cache
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.csproj.CoreCompileInputs.cache
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.exe
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.pdb
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.Patients.resources
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.Laboratorians.resources
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.Login.resources
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.Results.resources
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.Tests.resources
+F:\12th Semester\MedicareLab\MedicareLab\obj\Debug\MedicareLab.AdminLogin.resources
